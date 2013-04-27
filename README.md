@@ -1,4 +1,5 @@
-<h1> TableHockeyAdminTool (THAT) - Vaadin application for organising Table Hockey Leagues </h1>
+<h1> TableHockeyAdminTool (THAT)</h1>
+<h3> Vaadin application for organising Table Hockey Leagues </h3>
 
 <h2>Background</h2>
 
